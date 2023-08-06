@@ -1,4 +1,4 @@
 # Pong
 Simple pong game in python
 
-Remember to install tkniter if you want to play the game
+Remember to install tkinter if you want to play the game
